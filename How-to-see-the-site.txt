@@ -1,0 +1,13 @@
+In order to see the site:
+place the test.ru folder in OSPanel-domains.
+ 
+File privet.rar:
+extract privet.sql, go to phpMyAdmin-import and select privet.sql
+
+
+Для того чтобы увидеть сайт: 
+папку test.ru поместить в OSPanel-domains.
+ 
+Файл privet.rar.
+извлечь privet.sql, зайти в phpMyAdmin-импорт и выбрать privet.sql
+
